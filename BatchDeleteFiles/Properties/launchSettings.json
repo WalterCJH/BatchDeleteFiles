@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BatchDeleteFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Source\\13Sports\\13Sports\\Scripts\\admin\\plugins css"
+    }
+  }
+}
